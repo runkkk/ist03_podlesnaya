@@ -21,12 +21,12 @@ print(animals_in_zoo)
 
 # 4
 
-ser_ids = {"teraCoder": 9018293, "proProgrammer": 119238}
+user_ids = {"teraCoder": 9018293, "proProgrammer": 119238}
 
-ser_ids["theLooper"] = 138475
-ser_ids["stringQueen"] = 85739
+user_ids["theLooper"] = 138475
+user_ids["stringQueen"] = 85739
 
-print(ser_ids)
+print(user_ids)
 
 # 5
 
