@@ -118,3 +118,5 @@ for _ in range(attempts):
 length = int(input())
 password = ''.join(random.choice(string.ascii_letters) for _ in range(length))
 print(password)
+
+
